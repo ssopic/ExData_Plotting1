@@ -1,8 +1,5 @@
 #Plot 3
 #Data manipulation
-
-#Plot 1
-#Data manipulation
 setwd("C:\\Users\\ssopic\\Desktop\\Coursera\\4. Exploratory data analysis\\first assignment")
 data <- read.csv("C:\\Users\\ssopic\\Desktop\\Coursera\\4. Exploratory data analysis\\first assignment\\household_power_consumption.txt", sep=";")
 names(data)
